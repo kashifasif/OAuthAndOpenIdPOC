@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POC.OIDC", "POC.IdentityServer\POC.OIDC.csproj", "{95FC1B1A-BA23-48B8-9606-85141CC47826}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POC.OIDC", "POC.OIDC\POC.OIDC.csproj", "{95FC1B1A-BA23-48B8-9606-85141CC47826}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POC.Client", "POC.Client\POC.Client.csproj", "{B90B776A-4C56-449C-B5F1-527067346CAE}"
 EndProject
